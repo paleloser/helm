@@ -7,7 +7,7 @@ require (
 	github.com/DATA-DOG/go-sqlmock v1.5.0
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/Masterminds/sprig/v3 v3.2.2
-	github.com/Masterminds/squirrel v1.5.0
+	github.com/Masterminds/squirrel v1.5.1
 	github.com/Masterminds/vcs v1.13.1
 	github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535
 	github.com/containerd/containerd v1.5.7
@@ -44,5 +44,5 @@ require (
 	k8s.io/kubectl v0.22.3
 	oras.land/oras-go v0.4.0
 	rsc.io/letsencrypt v0.0.3 // indirect
-	sigs.k8s.io/yaml v1.2.0
+	sigs.k8s.io/yaml v1.3.0
 )
